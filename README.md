@@ -92,7 +92,7 @@ The orchestrator runs against a deterministic scenario engine so the end-to-end 
 ## Demo video
 
 ```
-YOUTUBE_DEMO_URL=[https://youtu.be/yuFKup-IA4o?si=26rIB3cdDRXTLGMu](https://youtu.be/yuFKup-IA4o?si=26rIB3cdDRXTLGMu)
+Youtube Video Demo = https://youtu.be/yuFKup-IA4o?si=26rIB3cdDRXTLGMu
 ```
 
 ## Repo safety
